@@ -1,0 +1,34 @@
+h1, h2 {
+	font-family: Verdana, "Times New Roman";
+	font-weight: bold;
+  font-size: xx-large;
+	color: white;
+  text-align: center;
+	}
+ h3 {
+  color: rgb(0, 200, 255);
+ }
+	body {
+	background-color: black;
+	text-align:center;
+	width: 100%;
+	}
+  body {background-image: url("images/Landscape.jpg");}
+	video {
+		background-color: black;
+		
+
+	}
+	P {
+	color: gray;
+	font-family: Times New Roman;
+	font-weight: 1.5em;
+  font-size:x-large;
+  text-align: center;
+	}
+  footer {
+  text-align: right;
+  color: gray;
+  font-weight: bold;
+  font-size: x-large;
+  }
